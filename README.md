@@ -1,19 +1,19 @@
 # AH
 # 1. mathematical model
 fusion 360 assembly ✓     
-paper draft for mathematical model ✓
-name everything in the system（to-do）
-matlab symplified mathematical model（to-do） 
+paper draft for mathematical model ✓  
+name everything in the system（to-do)  
+matlab symplified mathematical model（to-do）   
 (or matlab multi-body dynamics)   
 # 2. reverse mechanism
 test spring（to-do）  
-redesign and print the end pin （to-do）
-test reverse mechanisms（to-do）
+redesign and print the end pin （to-do）  
+test reverse mechanisms（to-do）  
 combine spring(inward-1,3,5) and fiber(outward-2,4,6)
 # 3. system evaluation（to-do）
-sensitivity  
-RT
-pattern
+sensitivity    
+RT  
+pattern  
 # 4. application (to-do)
 # 5. paper writing (to-do)
 related work: passive touch rendering/ friction haptic sensation  
