@@ -1,4 +1,8 @@
 # AH
+# 0. related topics
+Parasitic drag (wikipedia)  
+Skin friction drag (wikipedia)  
+fabric-based actuators(paper)  
 # 1. mathematical model
 fusion 360 assembly ✓     
 paper draft for mathematical model ✓  
